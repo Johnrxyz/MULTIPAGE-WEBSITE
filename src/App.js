@@ -1,9 +1,8 @@
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
-import Dropdown from "./Components/try";
 
 function App() {
   return (

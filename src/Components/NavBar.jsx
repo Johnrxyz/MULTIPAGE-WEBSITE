@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import '../Styles/style.css';
 import { Link } from 'react-router-dom';
 
